@@ -6,14 +6,14 @@
   "name": "Camping Sticks",
   "description": "A simple minecraft mod that make campfires turn sticks into torches.",
   "authors": [
-    "Danik1ngRD"
+    "Daniking"
   ],
   "contact": {
     "homepage": "https://www.curseforge.com/members/danik1ngrd/projects",
     "sources": "https://github.com/DanikingMC/CampingSticks"
   },
 
-  "license": "GPL-3.0",
+  "license": "MIT",
   "icon": "assets/campingsticks/icon.png",
 
   "environment": "*",
